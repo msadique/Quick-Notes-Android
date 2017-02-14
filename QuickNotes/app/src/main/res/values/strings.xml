@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="textview">textview</string>
+    <string name="last_update">Last Update:</string>
+    <string name="file_name">notes</string>
+    <string name="notes_saved">notes_saved</string>
+    <string name="no_notes">no_notes</string>
+</resources>
